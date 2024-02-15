@@ -116,7 +116,7 @@ public class Main {
         System.out.println("Кристина теперь получает " + increaseSalaryKristen + " рублей в месяц, а ее годовой доход вырос на " + differenceKristen + " рублей");
 
 
-        byte bad = 3;
+        byte bad = 2;
 
 
 
